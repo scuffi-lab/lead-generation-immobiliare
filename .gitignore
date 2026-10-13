@@ -1,0 +1,7 @@
+# credenziali e dati reali: non vanno mai su GitHub
+sito/scripts/deploy_config.json
+sito/output/
+sito/data/listings/*/img/
+__pycache__/
+*.pyc
+.env

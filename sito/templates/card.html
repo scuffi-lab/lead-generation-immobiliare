@@ -1,0 +1,20 @@
+          <a class="listing-card" href="/immobili/{{SLUG}}.html">
+            <div class="thumb">
+              <img src="/immobili/img/{{THUMB_FILE}}" width="1200" height="1600" alt="{{THUMB_ALT}}" loading="{{LOADING}}">
+              <span class="tag">{{TAG_LABEL}}</span>
+              <button type="button" class="share-btn" aria-label="Condividi questo annuncio" data-url="{{SHARE_URL}}" data-title="{{SHARE_TITLE}}" onclick="event.preventDefault(); event.stopPropagation(); shareCard(this);">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.6" y1="13.5" x2="15.4" y2="17.5"></line><line x1="15.4" y1="6.5" x2="8.6" y2="10.5"></line></svg>
+              </button>
+            </div>
+            <div class="body">
+              <h3>{{CARD_TITLE}}</h3>
+              <p class="where">{{COMUNE}} · {{ZONA}}</p>
+              <div class="facts">
+{{FACTS_HTML}}
+              </div>
+              <div class="foot">
+                <span class="price">{{PRICE_HTML}}</span>
+                <span class="more">Vedi la scheda →</span>
+              </div>
+            </div>
+          </a>

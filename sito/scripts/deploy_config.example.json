@@ -1,0 +1,6 @@
+{
+  "host": "tuo-host-sftp.example.com",
+  "user": "utente-sftp",
+  "password": "la-tua-password",
+  "remote_webroot": "public"
+}

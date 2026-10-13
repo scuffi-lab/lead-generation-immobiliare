@@ -1,0 +1,66 @@
+{
+  "slug": "bilocale-affitto-santa-croce-sull-arno-zona-coop",
+  "status": "affitto",
+  "available": true,
+  "date_posted": "2026-09-26",
+  "seo_title": "Bilocale in affitto a Santa Croce sull'Arno, zona Coop, con cantina",
+  "title_line1": "Bilocale al secondo piano con terrazzo e cantina,",
+  "title_em": "vicino alla Coop.",
+  "comune": "Santa Croce sull'Arno",
+  "provincia": "PI",
+  "cap": "56029",
+  "zona": "Zona Coop",
+  "tipologia": "Bilocale",
+  "vani": 2,
+  "piano": "Secondo, senza ascensore",
+  "piano_numero": "2",
+  "ascensore": false,
+  "mq": null,
+  "ape": null,
+  "prezzo": 470,
+  "prezzo_unita": "mese",
+  "disponibilita": "Libero da subito",
+  "descrizione": [
+    "Bilocale in affitto a Santa Croce sull'Arno, nella zona vicina alla Coop, al secondo piano di uno stabile senza ascensore.",
+    "Gli ambienti comprendono una cucina abitabile con portafinestra sul terrazzo, una camera matrimoniale anch'essa affacciata sul terrazzo e un bagno con doccia. Completa l'appartamento una cantina.",
+    "Il canone è di 470 €/mese comprensivo di spese condominiali. Libero da subito."
+  ],
+  "requisiti_testo": "Referenze lavorative. Le verifichiamo sempre, prima di proporre l'immobile alla proprietà: è il modo in cui lavoriamo da trentadue anni ed è la ragione per cui i nostri contratti durano.",
+  "facts": [
+    "**2°** piano",
+    "Con **cantina**",
+    "Spese condominiali **incluse**"
+  ],
+  "amenities": [
+    "Terrazzo",
+    "Cantina",
+    "Spese condominiali incluse"
+  ],
+  "breadcrumb_label": "Bilocale a Santa Croce sull'Arno",
+  "wa_text": "Ciao! Ho visto sul sito il bilocale in affitto a Santa Croce sull'Arno, zona Coop (470 €/mese, spese condominiali incluse). Vorrei avere maggiori informazioni.",
+  "meta_description": "Bilocale in affitto a Santa Croce sull'Arno (PI), zona Coop. Secondo piano, cucina abitabile, camera matrimoniale, bagno, terrazzo e cantina. 470 €/mese comprensivo di spese condominiali, libero da subito.",
+  "og_description": "Cucina abitabile, camera matrimoniale, bagno, terrazzo e cantina. 470 €/mese comprensivo di spese condominiali, libero da subito.",
+  "jsonld_description": "Bilocale al secondo piano senza ascensore a Santa Croce sull'Arno, zona Coop. Cucina abitabile, camera matrimoniale, bagno con doccia, terrazzo, cantina.",
+  "foto": [
+    {
+      "file": "santa-croce-coop-cucina.jpeg",
+      "didascalia": "Cucina abitabile",
+      "alt": "Cucina abitabile con portafinestra sul terrazzo del bilocale in affitto a Santa Croce sull'Arno."
+    },
+    {
+      "file": "santa-croce-coop-camera.jpeg",
+      "didascalia": "Camera matrimoniale",
+      "alt": "Camera matrimoniale con accesso al terrazzo del bilocale in affitto a Santa Croce sull'Arno."
+    },
+    {
+      "file": "santa-croce-coop-bagno.jpeg",
+      "didascalia": "Bagno",
+      "alt": "Bagno con doccia del bilocale in affitto a Santa Croce sull'Arno."
+    },
+    {
+      "file": "santa-croce-coop-cantina.jpeg",
+      "didascalia": "Cantina",
+      "alt": "Porta della cantina del bilocale in affitto a Santa Croce sull'Arno."
+    }
+  ]
+}
